@@ -1,0 +1,33 @@
+cd C:\Spence\ReactApps
+#create app
+create-react-app so-prototype-01
+
+Initialized a git repository.
+
+Success! Created so-prototype-01 at C:\Spence\ReactApps\so-prototype-01
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd so-prototype-01
+  npm start
+
+Happy hacking!
+
+
+# install the following:
+npm install @material-ui/core
+npm install @material-ui/icons
